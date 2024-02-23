@@ -20,3 +20,8 @@ Clone the repository: git clone https://github.com/Sonali504/netflix-clone.git
 Open the project in your preferred code editor.
 Customize the project as needed.
 Test the application locally.
+
+<h2>Usage</h2>
+Open the project in your code editor.
+Make changes or add features as needed.
+Test the application locally.
