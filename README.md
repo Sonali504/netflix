@@ -4,6 +4,10 @@ This is a clone of the Netflix website created as a project.
 <h2>Description</h2>
 This project is a clone of the Netflix website, created for learning and practice purposes. It replicates the main features and design of the Netflix website, allowing users to browse through movies and TV shows, view details, and sign in to their accounts.
 
+<h2>Deployment</h2> 
+
+The project is deployed and can be accessed [here](https://sonali504.github.io/netflix/).
+
 <h2>Features</h2>
 User authentication: Sign up, login, and logout functionality.
 Browse movies and TV shows: View popular titles, search for specific titles, and view details.
