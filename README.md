@@ -15,7 +15,7 @@ Interactive UI: User-friendly interface with smooth transitions and animations.
 HTML
 CSS 
 
-<h2>>Setup</h2>
+<h2>Setup</h2>
 Clone the repository: git clone https://github.com/Sonali504/netflix-clone.git
 Open the project in your preferred code editor.
 Customize the project as needed.
