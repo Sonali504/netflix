@@ -6,7 +6,7 @@ This project is a clone of the Netflix website, created for learning and practic
 
 <h2>Deployment</h2> 
 
-The project is deployed and can be accessed [here](https://sonali504.github.io/netflix/).
+The project is deployed and can be accessed [here](https://netflix-sooty-eight.vercel.app/).
 
 <h2>Features</h2>
 User authentication: Sign up, login, and logout functionality.
